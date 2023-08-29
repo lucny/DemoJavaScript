@@ -4,8 +4,20 @@ body {
   margin: auto auto;
 }
 
+header {
+  background-color: red;
+  padding: 2em;
+}
+
 h1 {
   background-color: red;
   color: white;
   text-align: center;
+  text-transform: uppercase;
+}
+
+footer {
+  background-color: #eee;
+  text-align: center;
+  padding: 2em;
 }
