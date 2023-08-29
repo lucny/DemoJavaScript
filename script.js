@@ -1,2 +1,5 @@
-alert('funguje to');
+// alert('funguje to');
 
+const h1 = document.querySelector('h1');
+
+h1.style.backgroundColor = 'blue';
